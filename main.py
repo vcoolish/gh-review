@@ -18,11 +18,8 @@ WHITELIST = [
     "vcoolish",
     "DmitriySarafanoff",
     "eakurnikov",
-    "reportedsocks",
     "Elyniss",
-    "tonycode",
     "bulatgaleev",
-    "rusmonster",
     "rebeccahsieh-oss",
     "Buddypas",
 ]
